@@ -1,5 +1,5 @@
 # Js-Challenge
-(👉[Go to Web page.](https://seojeongho.github.io/Js-Challenge/)👈)
+(👉 [Go to Web page.](https://seojeongho.github.io/Js-Challenge/))
 ## VanilLaJS ToDoList
 The project has the following features.
 1. Date
