@@ -1,6 +1,6 @@
 # Js-Challenge
 ## VanilLaJS ToDoList
-### https://seojeongho.github.io/Js-Challenge/
+### (👉👉 Go to website(https://seojeongho.github.io/Js-Challenge/))
 The project has the following features.
 1. Date
 2. Clock.
