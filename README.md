@@ -1,4 +1,4 @@
-# Js-Challenge
+# Js-ToDoList
 (👉 [Go to Web page.](https://seojeongho.github.io/Js-Challenge/))
 ## VanilLaJS ToDoList
 The project has the following features.
